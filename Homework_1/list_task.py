@@ -1,5 +1,3 @@
-
-
 # Remove equal adjacent elements
 #
 # Example input: [1, 2, 2, 3]

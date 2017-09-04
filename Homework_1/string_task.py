@@ -1,5 +1,3 @@
-
-
 # Given a string, if its length is at least 3,
 # add 'ing' to its end.
 # Unless it already ends in 'ing', in which case
