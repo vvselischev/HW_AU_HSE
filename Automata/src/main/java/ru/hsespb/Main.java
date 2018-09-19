@@ -344,6 +344,7 @@ public class Main {
         testCase("tests/disconnected_input.txt", "tests/disconnected_correct.txt");
         testCase("tests/multiedges_input.txt", "tests/multiedges_correct.txt");
         testCase("tests/random_input.txt", "tests/random_correct.txt");
+	testCase("tests/nonstraight_input.txt", "tests/nonstraight_correct.txt");
 	System.out.println("Passed all tests.");
     }
 
